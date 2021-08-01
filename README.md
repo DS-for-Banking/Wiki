@@ -31,3 +31,10 @@
 
 
 ## Deployment
+* [CS 329S](https://stanford-cs329s.github.io/syllabus.html)
+* [cs329s-ml-deployment-tutorial](https://github.com/mrdbourke/cs329s-ml-deployment-tutorial)
+* [How to improve software engineering skills as a researcher](https://ljvmiranda921.github.io/notebook/2020/11/15/data-science-swe/)
+* [MLOps](https://cloud.google.com/architecture/mlops-continuous-delivery-and-automation-pipelines-in-machine-learning)
+* [ml-system-design-pattern](https://github.com/mercari/ml-system-design-pattern)
+
+
