@@ -20,6 +20,14 @@
     * [World Bank](https://www.kaggle.com/theworldbank/world-bank-intl-education)
     * [BNP Paribas Cardif Claims Management](https://www.kaggle.com/c/bnp-paribas-cardif-claims-management/data)
     * [loan-default-prediction](https://github.com/zhouxu-ds/loan-default-prediction/tree/main/data)
+    * [US Dept of Education: College Scorecard](https://www.kaggle.com/kaggle/college-scorecard)
+    * [Lending Club Loan Data](https://www.kaggle.com/adarshsng/lending-club-loan-data-csv)
+    * [College Scorecard Raw Data](https://www.kaggle.com/tunguz/college-scorecard-raw-data)
+    * [Predicting Who Pays Back Loans](https://www.kaggle.com/sarahvch/predicting-who-pays-back-loans)
+    * [Credit Card Approval Prediction](https://www.kaggle.com/rikdifos/credit-card-approval-prediction)
+    * [AlfaBattle 2.0](https://www.kaggle.com/mrmorj/alfabattle-20)
+    * [Fannie Mae & Freddie Mac Database 2008-2018](https://www.kaggle.com/jeromeblanchet/fannie-mae-freddie-mac-public-use-database)
+    * [All Lending Club loan data](https://www.kaggle.com/wordsforthewise/lending-club)
 
 
 ## Deployment
